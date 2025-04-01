@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11FF26&multiline=true&repeat=false&width=650&height=100&lines=Prazer%2C+meu+nome+%C3%A9+Lorhan%F0%9F%91%8B.;Bem+vindo+ao+meu+portf%C3%B3lio%F0%9F%98%80!;Aqui+est%C3%A3o+alguns+dos+projetos+nos+quais+participei%F0%9F%98%85.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=11FF26&multiline=true&repeat=false&width=650&height=100&lines=Prazer%2C+meu+nome+%C3%A9+Lorhan%F0%9F%91%8B.;Bem+vindo+ao+meu+portf%C3%B3lio%F0%9F%98%80!;Aqui+est%C3%A3o+alguns+dos+projetos+nos+quais+participei%F0%9F%98%85.)](https://git.io/typing-svg)
 
 ## `💬` **O que estou fazendo**: Estudante de Sistemas de Informação (IFES) e Técnico em Informática para Internet (IFSULDEMINAS).
 
